@@ -1,0 +1,11 @@
+{
+  "name": "serverless-test",
+  "version": "1.0.0",
+  "description": "A simple Node.js app to test directory and file creation on serverless hosting.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
